@@ -1,5 +1,5 @@
 # A2-BGRE
-The source code of paper A2-BGRE
+The source code for paper A2-BGRE
 
 ## Requirements
 
