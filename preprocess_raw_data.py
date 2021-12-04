@@ -35,7 +35,7 @@ def preprocess(split,opt):
         for line in f.readlines():
             line = line.strip().split()
             word_vec[len(word2id)] = np.array(line[1:])
-            word2id[line[0].lower()] = len(word2id)
+            word2id[line[0]] = len(word2id)
         f.close()
         word_vec[len(word2id)] = np.random.randn(dim) / np.sqrt(dim)
         word2id['[UNK]'] = len(word2id)
