@@ -26,7 +26,7 @@ If you would like to use preprocessed data, please check [here](https://drive.go
 * long_tail.json(for evaluation of long-tailed distributions)
 
 ## Train
-### If you have not preprocessed the raw data or obtain the preprocessed data failed, please run: 
+### If you have not preprocessed the raw data or obtained the preprocessed data failed, please run: 
 ```
 python preprocess_raw_data.py
 ```
