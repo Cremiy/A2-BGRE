@@ -1,5 +1,5 @@
 # A2-BGRE
-The source code for paper A2-BGRE
+The source code for paper DBGARE: Accross-Within Dual Bipartite Graph Attention for Enhancing Distantly Supervised Relation Extraction(KSEM2022)
 
 ## Requirements
 
