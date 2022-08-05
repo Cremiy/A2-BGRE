@@ -54,7 +54,20 @@ e.g.: python eval.py --model_type main_model --name A2BGRE
 
 ## Citation
 ```
-When our paper is open, we appreciate that you can cite our paper in this citation or citation in google scholar.
+We will be appreciate for your citation
+
+the BiB format reference is provide as following:
+
+@inproceedings{gu2022dbgare,
+  title={DBGARE: Across-Within Dual Bipartite Graph Attention for Enhancing Distantly Supervised Relation Extraction},
+  author={Gu, Hejian and Yu, Hang and Luo, Xiangfeng},
+  booktitle={International Conference on Knowledge Science, Engineering and Management},
+  pages={400--412},
+  year={2022},
+  organization={Springer}
+}
+
+
 ```
 
 
