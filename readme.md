@@ -54,9 +54,7 @@ e.g.: python eval.py --model_type main_model --name A2BGRE
 
 ## Citation
 ```
-We will be appreciate for your citation
-
-the BiB format reference is provide as following:
+We will be appreciate for your citation, the BiB format reference is provided as following:
 
 @inproceedings{gu2022dbgare,
   title={DBGARE: Across-Within Dual Bipartite Graph Attention for Enhancing Distantly Supervised Relation Extraction},
