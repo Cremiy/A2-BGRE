@@ -1,5 +1,5 @@
 # A2-BGRE
-The source code for paper [DBGARE: Accross-Within Dual Bipartite Graph Attention for Enhancing Distantly Supervised Relation Extraction(KSEM2022)]([https://link.springer.com/chapter/10.1007/978-3-031-10983-6_31])
+The source code for paper [DBGARE: Accross-Within Dual Bipartite Graph Attention for Enhancing Distantly Supervised Relation Extraction(KSEM2022)](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_31)
 
 ## Requirements
 
